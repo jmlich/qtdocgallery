@@ -428,6 +428,6 @@ void QGalleryItemRequest::setResponse(QGalleryAbstractResponse *response)
         Q_EMIT itemChanged();
 }
 
-#include "moc_qgalleryitemrequest.cpp"
-
 QT_END_NAMESPACE_DOCGALLERY
+
+#include "moc_qgalleryitemrequest.cpp"
