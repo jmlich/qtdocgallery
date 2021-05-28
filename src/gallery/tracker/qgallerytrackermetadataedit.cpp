@@ -42,6 +42,7 @@
 #include "qgallerytrackermetadataedit_p.h"
 
 #include <QtDBus/qdbuspendingcall.h>
+#include <QDebug>
 
 QT_BEGIN_NAMESPACE_DOCGALLERY
 
